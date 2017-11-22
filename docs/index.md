@@ -11,7 +11,7 @@
 
 1. Лучше всего не задавать вопросов, а искать ответы (их куча на том же [stackoverflow tag:kotlin](https://stackoverflow.com/questions/tagged/kotlin))
 1. Но если вы хотите задать вопрос то изучите небольшую [статью](https://ru.stackoverflow.com/help/how-to-ask) на русском stackoverlow. Эти 10 минут на чтение гайда как задавать вопрос помогут вам в будущем.
-1. Вы не нашли готового ответа и поняли как задать вопрос правильно. Задайте его на [stackoverflow tag:kotlin](https://stackoverflow.com/questions/tagged/kotlin) и пришлите ссылку с вопрос в чат! Плохо с английским? Задайте его на русском [stackoverflow tag:kotlin](https://ru.stackoverflow.com/questions/tagged/kotlin).
+1. Вы не нашли готового ответа и поняли как задать вопрос правильно. Задайте его на [stackoverflow tag:kotlin](https://stackoverflow.com/questions/tagged/kotlin) и пришлите ссылку с вопросом в чат! Плохо с английским? Задайте его на русском [stackoverflow tag:kotlin](https://ru.stackoverflow.com/questions/tagged/kotlin).
 
 # Правила
 
