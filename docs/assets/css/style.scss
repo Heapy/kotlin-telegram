@@ -7,6 +7,7 @@
   font-size: 16px;
 
   header {
+    display: none;
     width: auto;
     float: none;
     position: static;
@@ -19,6 +20,8 @@
   }
 
   footer {
+    width: 300px;
+    text-align: center;
     float: none;
     position: static;
     bottom: auto;
