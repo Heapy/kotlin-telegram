@@ -1,9 +1,9 @@
 # Чаты и каналы
 
-* [@kotlin_lang](https://t.me/kotlin_lang) - Обсуждение языка Kotlin, IDE, общие вопросы. Kotlin/Native и Kotlin/JS. 
-* [@kotlin_mobile](https://t.me/kotlin_mobile) - Android & Kotlin
-* [@kotlin_jvm](https://t.me/kotlin_jvm) - Server side Kotlin (Spring Boot, Ktor, etc)
-* [@kotlin_jobs](https://t.me/kotlin_jobs) - Котлин Вакансии
+* [@kotlin_lang](https://t.me/kotlin_lang) — Обсуждение языка Kotlin, IDE, общие вопросы. Kotlin/Native и Kotlin/JS. 
+* [@kotlin_mobile](https://t.me/kotlin_mobile) — Android & Kotlin
+* [@kotlin_jvm](https://t.me/kotlin_jvm) — Server side Kotlin (Spring Boot, Ktor, etc)
+* [@kotlin_jobs](https://t.me/kotlin_jobs) — Котлин Вакансии
 
 # Как задавать вопросы
 
@@ -24,4 +24,5 @@
 
 # Полезные ссылки
 
-TBD
+* [kotlinlang.ru](http://kotlinlang.ru/) - документация на русском (поддерживается сообществом) 
+* [kotlin.link](https://kotlin.link/) - сборник ссылок на ресурсы и репозитории
