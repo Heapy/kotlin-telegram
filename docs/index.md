@@ -4,27 +4,28 @@
 
 * [@kotlin_lang](https://t.me/kotlin_lang) — Обсуждение языка Kotlin, IDE, общие вопросы. Kotlin/Native и Kotlin/JS. 
 * [@kotlin_mobile](https://t.me/kotlin_mobile) — Android & Kotlin
-* [@kotlin_jvm](https://t.me/kotlin_jvm) — Server side Kotlin (Spring Boot, Ktor, etc)
+* [@kotlin_jvm](https://t.me/kotlin_jvm) — Kotlin on JVM — Server-side (Spring Boot, Ktor, etc) & Desktop (TornadoFX)
 * [@kotlin_jobs](https://t.me/kotlin_jobs) — Котлин Вакансии
 
 ## Как задавать вопросы
 
-Несколько моментов которые помогут вам задать вопрос так, чтобы получить ответ:
+Несколько моментов, которые помогут вам задать вопрос так, чтобы получить ответ:
 
-1. Лучше всего не задавать вопросов, а искать ответы (их куча на том же [stackoverflow tag:kotlin](https://stackoverflow.com/questions/tagged/kotlin))
-1. Но если вы хотите задать вопрос то изучите небольшую [статью](https://ru.stackoverflow.com/help/how-to-ask) на русском stackoverflow. Эти 10 минут на чтение гайда как задавать вопрос помогут вам в будущем.
-1. Вы не нашли готового ответа и поняли как задать вопрос правильно. Задайте его на [stackoverflow tag:kotlin](https://stackoverflow.com/questions/tagged/kotlin) и пришлите ссылку с вопросом в чат! Плохо с английским? Задайте его на русском [stackoverflow tag:kotlin](https://ru.stackoverflow.com/questions/tagged/kotlin).
+1. Сперва поищите ответы (их полно на [stackoverflow tag:kotlin](https://stackoverflow.com/questions/tagged/kotlin))
+1. Если таки хотите задать вопрос, то изучите небольшую [статью](https://ru.stackoverflow.com/help/how-to-ask) на русском stackoverflow. Эти 10 минут на помогут вам правильно задавать вопросы.
+1. Вы не нашли готового ответа и поняли, как задать вопрос правильно? Задайте его на [stackoverflow tag:kotlin](https://stackoverflow.com/questions/tagged/kotlin) и пришлите ссылку с вопросом в чат! Плохо с английским? Задайте его на русском [stackoverflow tag:kotlin](https://ru.stackoverflow.com/questions/tagged/kotlin).
 
 ## Правила
 
 Приветствуется:
 * Помощь вопрошающим
-* Ссылки на новости связанные с Kotlin, их обсуждение
+* Ссылки на новости, связанные с Kotlin; их обсуждение
 
 Запрещается: 
-* Троллинг, вбросы
+* Троллинг (ведение разговора в заведомо неконструктивном русле)
+* Вбросы (необоснованные утверждения)
 * Оскорбления
-* Распространение пиратского контента (книги, лицензии и тд)
+* Распространение пиратского контента (книги, лицензии к софту и т. д)
 * Языковые споры (Kotlin vs Java/Scala/Groovy/Go/Whatever)
 * Оффтоп, флуд
 
