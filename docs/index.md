@@ -6,6 +6,7 @@
 * [@kotlin_mobile](https://t.me/kotlin_mobile) — Android & Kotlin
 * [@kotlin_jvm](https://t.me/kotlin_jvm) — Kotlin on JVM — Server-side (Spring Boot, Ktor, etc) & Desktop (TornadoFX)
 * [@kotlin_jobs](https://t.me/kotlin_jobs) — Котлин Вакансии
+* [@tryktbot](https://t.me/tryktbot) — Try Kotlin bot
 
 ## Как задавать вопросы
 
