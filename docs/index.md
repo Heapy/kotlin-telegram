@@ -1,11 +1,18 @@
 # Kotlin in Telegram
 
-## Чаты и каналы
+## Чаты
 
 * [@kotlin_lang](https://t.me/kotlin_lang) — Обсуждение языка Kotlin, IDE, общие вопросы. Kotlin/Native и Kotlin/JS. 
 * [@kotlin_mobile](https://t.me/kotlin_mobile) — Android & Kotlin
 * [@kotlin_jvm](https://t.me/kotlin_jvm) — Kotlin on JVM — Server-side (Spring Boot, Ktor, etc) & Desktop (TornadoFX)
+
+## Каналы
+
 * [@kotlin_jobs](https://t.me/kotlin_jobs) — Котлин Вакансии
+* [@TheDailyKotlin](https://t.me/TheDailyKotlin) - Котлин Новости
+
+## Боты
+
 * [@tryktbot](https://t.me/tryktbot) — Try Kotlin bot
 
 ## Как задавать вопросы
