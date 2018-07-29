@@ -5,6 +5,7 @@
 * [@kotlin_lang](https://t.me/kotlin_lang) — Обсуждение языка Kotlin, IDE, общие вопросы. Kotlin/Native и Kotlin/JS. 
 * [@kotlin_mobile](https://t.me/kotlin_mobile) — Android & Kotlin
 * [@kotlin_jvm](https://t.me/kotlin_jvm) — Kotlin on JVM — Server-side (Spring Boot, Ktor, etc) & Desktop (TornadoFX)
+* [@kotlin_js](https://t.me/kotlin_js) - Вопросы по Kotlin/JS
 
 ## Каналы
 
