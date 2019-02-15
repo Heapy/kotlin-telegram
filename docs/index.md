@@ -15,7 +15,8 @@
 
 ## Боты
 
-* [@tryktbot](https://t.me/tryktbot) — Try Kotlin bot
+* [@tryktbot](https://t.me/tryktbot) — Try Kotlin Bot
+* [@tgkotbot](https://t.me/tgkotbot) — Kotlin Bot (Moderation and Statistics)
 
 ## Как задавать вопросы
 
