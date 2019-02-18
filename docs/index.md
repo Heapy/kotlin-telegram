@@ -6,6 +6,7 @@
 * [@kotlin_mobile](https://t.me/kotlin_mobile) — Android & Kotlin
 * [@kotlin_jvm](https://t.me/kotlin_jvm) — Kotlin on JVM — Server-side (Spring Boot, Ktor, etc) & Desktop (TornadoFX)
 * [@kotlin_js](https://t.me/kotlin_js) - Вопросы по Kotlin/JS
+* [@kotlin_start](https://t.me/kotlin_start) - Чат для новичков в Kotlin.
 * [@kotlin_meta](https://t.me/kotlin_meta) - Обсуждение работы чатов, вопросы по модерации
 
 ## Каналы
