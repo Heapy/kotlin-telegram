@@ -5,7 +5,7 @@
 ## Chats
 
 * [@kotlin_lang](https://t.me/kotlin_lang) — Discussion of Kotlin language, IDE, general questions. Kotlin/Native
-* [@kotlin_mobile](https://t.me/kotlin_mobile) — Android & Kotlin
+* [@kotlin_mobile](https://t.me/kotlin_mobile) — Kotlin-related questions on Android development
 * [@kotlin_jvm](https://t.me/kotlin_jvm) — Kotlin on JVM — Server-side (Spring Boot, Ktor, etc) & Desktop (TornadoFX)
 * [@kotlin_js](https://t.me/kotlin_js) — Questions on Kotlin/JS
 * [@kotlin_start](https://t.me/kotlin_start) — Chat for novice Kotlin developers
