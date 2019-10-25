@@ -1,6 +1,7 @@
 # Kotlin in Telegram
 
 [In English](https://kotlinby.github.io/kotlin-telegram/en/)
+[FAQ](https://kotlinby.github.io/kotlin-telegram/faq)
 
 ## Чаты
 
