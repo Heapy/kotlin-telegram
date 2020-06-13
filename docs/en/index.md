@@ -21,6 +21,11 @@
 * [@tryktbot](https://t.me/tryktbot) — Try Kotlin Bot
 * [@tgkotbot](https://t.me/tgkotbot) — Kotlin Bot (Moderation and Statistics)
 
+## Our friends
+
+* [@kotlinmpp](https://t.me/kotlinmpp) — News and articles on Kotlin Multiplatform
+* [@kotlinmppchats](https://t.me/kotlinmppchats) — Chat for discussions and questions on Kotlin Multiplatform
+
 ## How to ask questions
 
 Some points which would help you to compose the question to maximize the chance of getting an answer:

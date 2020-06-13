@@ -21,6 +21,11 @@
 * [@tryktbot](https://t.me/tryktbot) — Try Kotlin Bot
 * [@tgkotbot](https://t.me/tgkotbot) — Kotlin Bot (Moderation and Statistics)
 
+## Наши друзья
+
+* [@kotlinmpp](https://t.me/kotlinmpp) — Новости и статьи о Kotlin Multiplatform
+* [@kotlinmppchats](https://t.me/kotlinmppchats) — Чат для обсуждения и вопросов о Kotlin Multiplatform
+
 ## Как задавать вопросы
 
 Несколько моментов, которые помогут вам задать вопрос так, чтобы получить ответ:
