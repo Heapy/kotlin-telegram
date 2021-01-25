@@ -43,6 +43,7 @@ _FAQ для Telegram-чата [@kotlin_start](https://t.me/kotlin_start)._
 - [Android Kotlin Fundamentals](https://codelabs.developers.google.com/android-kotlin-fundamentals/) — большой codelab по использованию Kotlin в контексте Android-разработки.
 - [Refactoring to Kotlin](https://codelabs.developers.google.com/codelabs/java-to-kotlin/) — часовой codelab про рефакторинг существующего приложения.
 - [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/) — часовой codelab о том, где и как использовать корутины в приложении.
+- [Хочу стать Android Developer. Что, где и как учить](https://dou.ua/lenta/columns/how-to-become-android-developer/) - это статья для тех, кто хочет стать Android-разработчиком, и в целом для всех, кто желает работать программистом.
 
 ### 1d. Упражнения.
 
