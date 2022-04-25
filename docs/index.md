@@ -6,17 +6,18 @@
 
 ## Чаты
 
-* [@kotlin_lang](https://t.me/kotlin_lang) — Обсуждение языка Kotlin, IDE, общие вопросы. Kotlin/Native
-* [@kotlin_mobile](https://t.me/kotlin_mobile) — Вопросы об использовании Kotlin при разработке Android-приложений
-* [@kotlin_jvm](https://t.me/kotlin_jvm) — Kotlin on JVM — Server-side (Spring Boot, Ktor, etc) & Desktop (TornadoFX)
-* [@kotlin_js](https://t.me/kotlin_js) — Вопросы по Kotlin/JS
-* [@kotlin_start](https://t.me/kotlin_start) — Чат для новичков в Kotlin
-* [@kotlin_meta](https://t.me/kotlin_meta) — Обсуждение работы чатов, вопросы по модерации
+* [@kotlin_lang](https://t.me/kotlin_lang) — обсуждение языка Kotlin, IDE, общие вопросы
+* [@kotlin_mobile](https://t.me/kotlin_mobile) — Kotlin в контексте Android: Parcelize, Compose, Splitties, BleGattCoroutines и т.&nbsp;п.
+* [@kotlin_jvm](https://t.me/kotlin_jvm) — Kotlin для серверной (Spring Boot, Ktor и т.&nbsp;п.) и десктопной (TornadoFX) разработки для JVM
+* [@kotlin_js](https://t.me/kotlin_js) — вопросы по Kotlin/JS
+* [@kotlin_native](https://t.me/kotlinmpp) — вопросы по Kotlin/Native
+* [@kotlin_start](https://t.me/kotlin_start) — чат для новичков в Kotlin
+* [@kotlin_meta](https://t.me/kotlin_meta) — обсуждение работы чатов, вопросы по модерации
 
 ## Каналы
 
-* [@kotlin_jobs](https://t.me/kotlin_jobs) — Котлин Вакансии
-* [@TheDailyKotlin](https://t.me/TheDailyKotlin) — Котлин Новости
+* [@kotlin_jobs](https://t.me/kotlin_jobs) — вакансии, связанные с Kotlin
+* [@TheDailyKotlin](https://t.me/TheDailyKotlin) — новости и советы по Kotlin
 
 ## Боты
 
@@ -39,6 +40,8 @@
 
 ## Правила
 
+Рекомендуемые языки для общения в чате — русский и английский. Использование прочих языков затрудняет общение и модерирование дискуссии, поэтому модераторы вправе на русском и на английском запросить перейти на эти языки.
+
 В сообществе действуют следующие [нормы поведения (code of conduct)](https://kotlinby.github.io/kotlin-telegram/code-of-conduct).
 
 Приветствуется:
@@ -51,7 +54,7 @@
 * Троллинг (ведение разговора в заведомо неконструктивном русле)
 * Вбросы (необоснованные утверждения)
 * Оскорбления
-* Распространение пиратского контента (книги, лицензии к софту и т. д)
+* Распространение пиратского контента (книги, лицензии к софту и т.&nbsp;п.)
 * Языковые споры (Kotlin vs Java/Scala/Groovy/Go/Whatever)
 * Оффтоп, флуд
 * Кросс-постинг (задавание одного вопроса одновременно в нескольких родственных чатах)
@@ -59,7 +62,7 @@
 
 ## Полезные ссылки
 
-* [kotlinlang.ru](http://kotlinlang.ru/) — документация на русском (поддерживается сообществом) 
+* [kotlinlang.ru](http://kotlinlang.ru/) — документация на русском (поддерживается сообществом)
 * [kotlin.link](https://kotlin.link/) — сборник ссылок на ресурсы и репозитории
 
 [Данная страница на GitHub](https://github.com/KotlinBy/kotlin-telegram/blob/master/docs/index.md)
