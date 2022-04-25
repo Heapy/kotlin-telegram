@@ -8,13 +8,13 @@
 
 Whether you’ve come to ask questions or to generously share what you know, join us in building a community where all people feel welcome and can participate, regardless of expertise or identity.
 
-We commit to enforcing and improving the Code of Conduct. It applies to everyone participating in [@kotlin_lang](https://t.me/kotlin_lang), [@kotlin_mobile](https://t.me/kotlin_mobile), [@kotlin_jvm](https://t.me/kotlin_jvm), [@kotlin_js](https://t.me/kotlin_js), [@kotlin_meta](https://t.me/kotlin_meta), moderators, and anyone posting to mentioned chats.
+We commit to enforcing and improving the Code of Conduct. It applies to everyone participating in each of chats of the community including moderators.
 
 ## Our Expectations
 
 **If you’re here to get help, make it as easy as possible for others to help you.** [Follow guidelines on asking questions](https://stackoverflow.com/help/how-to-ask) and remember that our community is made possible by volunteers.
 
-**If you’re here to help others, be patient and welcoming.** Learning how to participate in our community can be hard. Offer support if you see someone struggling or otherwise in need of help.
+**If you’re here to help others, be patient and welcoming.** Learning how to participate in our community can be hard. Offer support if you see someone struggles or otherwise in need of help.
 
 **Be clear and constructive when giving feedback, and be open when receiving it.** Edits, comments, and suggestions are healthy parts of our community.
 

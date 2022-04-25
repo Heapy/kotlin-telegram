@@ -16,7 +16,7 @@
 
 ## Channels
 
-* [@kotlin_jobs](https://t.me/kotlin_jobs) — vacancies related to Kotlin
+* [@kotlin_jobs](https://t.me/kotlin_jobs) — openings related to Kotlin
 * [@TheDailyKotlin](https://t.me/TheDailyKotlin) — Kotlin news and tips
 
 ## Bots
@@ -63,7 +63,7 @@ Forbidden:
 ## Useful resources
 
 * [kotlinlang.org](http://kotlinlang.org/) — Kotlin's official website
-* [kotlin.link](https://kotlin.link/) — a curated list of libraries and repositories related to Kotlin
+* [kotlin.link](https://kotlin.link/) — curated list of libraries and repositories related to Kotlin
 
 [This page at GitHub](https://github.com/KotlinBy/kotlin-telegram/blob/master/docs/en/index.md)
 
