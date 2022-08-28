@@ -51,14 +51,18 @@ We welcome:
 
 Forbidden: 
 
-* Trolling (inflammatory, digressive, non-constructive discussions)
-* Counterfeits (claims not founded on anything)
+* Использовать список пользователей чата для распространения чего бы то ни было через личные сообщения: вакансий, рекламы и т.&nsbp;д.
+
+* Trolling — inflammatory, digressive, non-constructive discussions
+* Counterfeits — unfounded allegations, leading to unproductive discussions.
 * Insults
-* Pirated content (e.g. books, software licenses)
+* Pirated content: books, software licenses, etc.
 * Flame comparisons of programming languages (Kotlin vs Java/Scala/Groovy/Go/Whatever)
-* Off-topic, flood
+* Off-topic — withdrawal from the topic of chats
+* Flood — voluminous messages of little substance
 * Cross-posting (asking one question in multiple sibling chats)
 * Disputing chat moderation (welcome to [@kotlin_meta](https://t.me/kotlin_meta)).
+* Using the list of chat members for a spread of anything through private messages: job positions, ads, etc.
 
 ## Useful resources
 
