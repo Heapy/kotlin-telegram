@@ -51,8 +51,6 @@ We welcome:
 
 Forbidden: 
 
-* Использовать список пользователей чата для распространения чего бы то ни было через личные сообщения: вакансий, рекламы и т.&nsbp;д.
-
 * Trolling — inflammatory, digressive, non-constructive discussions
 * Counterfeits — unfounded allegations, leading to unproductive discussions.
 * Insults
