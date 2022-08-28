@@ -58,7 +58,7 @@ Forbidden:
 * Flame comparisons of programming languages (Kotlin vs Java/Scala/Groovy/Go/Whatever)
 * Off-topic — withdrawal from the topic of chats
 * Flood — voluminous messages of little substance
-* Cross-posting (asking one question in multiple sibling chats)
+* Cross-posting — asking one question in multiple sibling chats
 * Disputing chat moderation (welcome to [@kotlin_meta](https://t.me/kotlin_meta)).
 * Using the list of chat members for a spread of anything through private messages: job positions, ads, etc.
 
