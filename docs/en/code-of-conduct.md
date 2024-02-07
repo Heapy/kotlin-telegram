@@ -1,6 +1,6 @@
 # Code of Conduct
 
-[In Russian](https://kotlinby.github.io/kotlin-telegram/code-of-conduct/)
+[In Russian](https://kug.community/code-of-conduct)
 
 ## This Code of Conduct helps us build a community that is rooted in kindness, collaboration, and mutual respect.
 
@@ -57,6 +57,6 @@ We created this Code of Conduct because it reinforces the respect that we, as a 
 
 We welcome your feedback on this and every other aspect of what we do at Stack Overflow and the Stack Exchange network. Thank you for working with us to build a kind, collaborative, and respectful community.
 
-[This page at GitHub](https://github.com/KotlinBy/kotlin-telegram/blob/master/docs/en/code-of-conduct.md)
+[This page at GitHub](https://github.com/Heapy/kotlin-telegram/blob/master/docs/en/code-of-conduct.md)
 
 Chats are supported by Kotlin developers community.

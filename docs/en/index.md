@@ -1,16 +1,12 @@
 # Kotlin in Telegram
 
-[In Russian](https://kotlinby.github.io/kotlin-telegram/)
+[In Russian](https://kug.community)
 
-[FAQ](https://kotlinby.github.io/kotlin-telegram/en/faq)
+[FAQ](https://kug.community/en/faq)
 
 ## Chats
 
 * [@kotlin_lang](https://t.me/kotlin_lang) — Discussion of Kotlin language, IDE, general questions. Kotlin/Native
-* [@kotlin_mobile](https://t.me/kotlin_mobile) — Kotlin-related questions on Android development
-* [@kotlin_jvm](https://t.me/kotlin_jvm) — Kotlin on JVM — Server-side (Spring Boot, Ktor, etc) & Desktop (TornadoFX)
-* [@kotlin_js](https://t.me/kotlin_js) — Questions on Kotlin/JS
-* [@kotlin_native](https://t.me/kotlinmpp) — Questions on Kotlin/Native
 * [@kotlin_start](https://t.me/kotlin_start) — Chat for novice Kotlin developers
 * [@kotlin_meta](https://t.me/kotlin_meta) — Organizational questions, discussion of chat moderation
 
@@ -42,7 +38,7 @@ Some points which would help you to compose the question to maximize the chance 
 
 Recommended languages for chatting are Russian and English. Using other languages makes communication and moderation difficult, therefore moderators are entitled to request using these languages.
 
-Our community has the following [code of conduct](https://kotlinby.github.io/kotlin-telegram/en/code-of-conduct).
+Our community has the following [code of conduct](https://kug.community/en/code-of-conduct).
 
 We welcome:
 
@@ -67,6 +63,6 @@ Forbidden:
 * [kotlinlang.org](http://kotlinlang.org/) — Kotlin's official website
 * [kotlin.link](https://kotlin.link/) — curated list of libraries and repositories related to Kotlin
 
-[This page at GitHub](https://github.com/KotlinBy/kotlin-telegram/blob/master/docs/en/index.md)
+[This page at GitHub](https://github.com/Heapy/kotlin-telegram/blob/master/docs/en/index.md)
 
 Chats are supported by Kotlin developers community.

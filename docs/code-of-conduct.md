@@ -1,6 +1,6 @@
 # Нормы поведения
 
-[In English](https://kotlinby.github.io/kotlin-telegram/en/code-of-conduct/)
+[In English](https://kug.community/en/code-of-conduct)
 
 ## Нормы поведения помогают создавать сообщество, в основе которого лежит доброта, сотрудничество и взаимное уважение.
 
@@ -57,6 +57,6 @@
 
 Мы рады вашим отзывам о нормах поведения, как и о других аспектах работы сообщества. Благодарим вас за ваш вклад в создание дружелюбного сообщества взаимной помощи, где участники относятся друг к другу с уважением.
 
-[Данная страница на GitHub](https://github.com/KotlinBy/kotlin-telegram/blob/master/docs/code-of-conduct.md)
+[Данная страница на GitHub](https://github.com/Heapy/kotlin-telegram/blob/master/docs/code-of-conduct.md)
 
 Чаты поддерживаются сообществом разработчиков на Kotlin.
